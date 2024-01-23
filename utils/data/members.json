@@ -1,0 +1,23 @@
+{
+  "-MiBsBKGWFEU-ylubgr-": {
+    "firebaseKey": "-MiBsBKGWFEU-ylubgr-",
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3915511.png&w=350&h=254",
+    "name": "Joe Burrow",
+    "role": "QB",
+    "uid": ""
+  },
+  "-MiBsBKGWFEU-ylfdvn-": {
+    "firebaseKey": "-MiBsBKGWFEU-ylfdvn-",
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3116385.png&w=350&h=254",
+    "name": "Joe Mixon",
+    "role": "RB",
+    "uid": ""
+  },
+  "-MiBsBKGWFEU-ylgcsw-": {
+    "firebaseKey": "-MiBsBKGWFEU-ylgcsw-",
+    "image": "https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/4362628.png&w=350&h=254",
+    "name": "Ja'Marr Chase",
+    "role": "WR",
+    "uid": ""
+  }
+}
