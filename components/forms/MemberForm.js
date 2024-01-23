@@ -47,7 +47,7 @@ function MemberForm({ obj }) {
 
   return (
     <Form onSubmit={handleSubmit}>
-      <h2 className="text-white mt-5">{obj.firebaseKey ? 'Update' : 'Create'} Member</h2>
+      <h2 className="text-white mt-5">{obj.firebaseKey ? 'Update' : 'Add a'} Member</h2>
 
       {/* TITLE INPUT  */}
       <FloatingLabel controlId="floatingInput1" label="Member's Name" className="mb-3">
